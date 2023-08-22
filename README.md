@@ -13,7 +13,7 @@ Through interactive exercises and real-world Python examples, we lead learners t
 
 Venture beyond mere algorithms and equations to cultivate a thorough understanding of quality at every stage of the process.
 
-## GIGO Magazine and Quarterly Journal
+## GIGO Magazine (Quarterly Journal)  
 
 Welcome to **GIGO Magazine**, your premier source on the age-old principle of "Garbage-In, Garbage-Out" in the world of machine learning. Paired with our foundational hands-on Python book, our magazine dives deep into:
 
